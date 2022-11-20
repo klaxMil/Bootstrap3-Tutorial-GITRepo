@@ -1,0 +1,1 @@
+xcopy src\main\webapp target\bootstrap3Tut-1.0-SNAPSHOT /E /Y
